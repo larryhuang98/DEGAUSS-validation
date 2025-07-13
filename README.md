@@ -1,0 +1,1 @@
+# DEGAUSS-validation
